@@ -1,0 +1,6 @@
+applications:
+  - name: ourbroker
+    memory: 64M
+    instances: 1
+    host: ourbroker
+    path: .
